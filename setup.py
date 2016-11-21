@@ -37,7 +37,7 @@ setup(
     install_requires=['SQLAlchemy>=1.0.12',
                       'cobra>=0.4.0',
                       'numpy>=1.9.1',
-                      'psycopg2>=2.5.4',
+                      #'psycopg2>=2.5.4',
                       'biopython>=1.65',
                       'scipy>=0.17.0',
                       'lxml>=3.6.0',
